@@ -4,7 +4,8 @@ hugoblox:
     name: Aloïs Dauger
     type: person
     tagline: PhD Student in Mathematical Biology
-    description: ""
+    organization: Sorbonne University
+    description: "Specialized in adipose tissue modelling "
   theme:
     mode: system
     pack: coffee
